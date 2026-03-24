@@ -21,7 +21,7 @@ I'm drawn to the intersection of **software engineering** and **artificial intel
 </td>
 <td width="40%" align="center">
 <p>
-  <img src="profile.png" alt="Mohamed Flifel" width="300" style="border-radius: 50%"/>
+  <img src="profile.jpg" alt="Mohamed Flifel" width="300" style="border-radius: 50%"/>
 </p>
 </td>
 </tr>
