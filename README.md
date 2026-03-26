@@ -43,7 +43,7 @@ I'm drawn to the intersection of **software engineering** and **artificial intel
 
 ### 🤖 AI / ML
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
 
 ### 🗄️ Databases
