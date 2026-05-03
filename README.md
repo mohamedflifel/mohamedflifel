@@ -5,7 +5,7 @@
 # Salut 👋, je suis Mohamed Flifel
 ### 💡 Étudiant en Informatique · Développeur Web · Passionné d'IA
 
-🎓 Étudiant en Sciences Informatiques à l'**ISI Tunisie**
+🎓 Étudiant en Sciences de l'Informatiques à l'**ISI Ariana Tunisie**
 
 Je suis un créateur dans l'âme — que ce soit pour développer des applications full-stack, expérimenter des modèles de ML, ou transformer une idée random en vrai projet à 2h du matin.
 
